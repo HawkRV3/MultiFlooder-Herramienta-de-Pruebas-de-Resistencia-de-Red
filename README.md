@@ -23,7 +23,7 @@ Esta herramienta permite realizar pruebas de carga simultánea de paquetes **ICM
 ### 📥 **Instalación**
 Clona el repositorio e instala las dependencias necesarias:
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/HawkRV3/MultiFlooder-Herramienta-de-Pruebas-de-Resistencia-de-Red.git
 cd tu-repositorio
 pip install -r requirements.txt
 
